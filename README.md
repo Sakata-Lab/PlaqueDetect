@@ -1,2 +1,2 @@
 # PlaqueDetect
-Automatic plaque detection from a histological image
+A MATLAB function for automatic plaque detection from a histological image
